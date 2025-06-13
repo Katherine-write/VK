@@ -1,4 +1,4 @@
-name: otlin CI with Gradle
+ame: otlin CI with Gradle
 
 on:
   push:
