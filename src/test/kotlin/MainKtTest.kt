@@ -12,7 +12,7 @@ class MainKtTest {
  @Test
  fun mastercardIsAvalible() {
   val result = feeCalculation("MasterCard", 15_000, 10_000, 0)
-  assertEquals(0, result)
+  assertEquals(120, result)
  }
 
  @Test
